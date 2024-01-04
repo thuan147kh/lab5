@@ -1,0 +1,10 @@
+.myComponent {
+    height: 100vh;
+    background-color: var(--bg-main);
+}
+.myComponent .title {
+    
+    padding: 10px;
+    font-size: 40px;
+    color: var(--txt1);
+}

@@ -1,0 +1,12 @@
+.react3 {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: column;
+    width: 50px;
+
+    .result {
+        font-size: 60px;
+        text-align: center;
+    }
+}
