@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "username": "jozefuwu",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/thankchatgpt.mp4?raw=true",
+        "isFollowed": true,
+        "title": "Thanks ChatGPT",
+        "profileUrl": "https://www.tiktok.com/@jozefuwu",
+        "reaction": {
+            "likes": "4.5M",
+            "comments": "70K",
+            "isLiked": true
+        }
+    },
+    {
+        "id": "2",
+        "username": "Funny Video",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/video1.mp4?raw=true",
+        "isFollowed": true,
+        "title": "#funny",
+        "profileUrl": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/826ee97087c5e96120e23caa46b63b8c~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1703689200&x-signature=uAtsfhAnrYeqljmJUzV9fJ0af%2Fo%3D",
+        "reaction": {
+            "likes": "30K",
+            "comments": "20K",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "3",
+        "username": "Funny Video",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/video2.mp4?raw=true",
+        "isFollowed": true,
+        "title": " #funny",
+        "profileUrl": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/826ee97087c5e96120e23caa46b63b8c~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1703692800&x-signature=qljT0EjjBxUgwHagHCj77TYeZ%2FQ%3D",
+        "reaction": {
+            "likes": "200K",
+            "comments": "13K",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "4",
+        "username": "Funny Video",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/video3.mp4?raw=true",
+        "isFollowed": true,
+        "title": "#funny video",
+        "profileUrl": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/826ee97087c5e96120e23caa46b63b8c~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1703692800&x-signature=qljT0EjjBxUgwHagHCj77TYeZ%2FQ%3D",
+        "reaction": {
+            "likes": "70K",
+            "comments": "3K",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "5",
+        "username": "Funny Video",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/video4.mp4?raw=true",
+        "isFollowed": true,
+        "title": "✨ Figma loading animation! 😍🌈",
+        "profileUrl": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/826ee97087c5e96120e23caa46b63b8c~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1703692800&x-signature=qljT0EjjBxUgwHagHCj77TYeZ%2FQ%3D",
+        "reaction": {
+            "likes": "50K",
+            "comments": "1K",
+            "isLiked": true
+        }
+    },
+    {
+        "id": "6",
+        "username": "Funny Video",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/video5.mp4?raw=true",
+        "isFollowed": true,
+        "title": "#funny video",
+        "profileUrl": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/826ee97087c5e96120e23caa46b63b8c~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1703692800&x-signature=qljT0EjjBxUgwHagHCj77TYeZ%2FQ%3D",
+        "reaction": {
+            "likes": "2.1M",
+            "comments": "90K",
+            "isLiked": false
+        }
+    },
+    {
+        "id": "7",
+        "username": "Funny Video",
+        "videoUrl": "https://github.com/SyLe-Van/Webite_Subject/blob/main/image/video6.mp4?raw=true",
+        "isFollowed": true,
+        "title": "#funny",
+        "profileUrl": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/826ee97087c5e96120e23caa46b63b8c~c5_100x100.jpeg?lk3s=a5d48078&x-expires=1703692800&x-signature=qljT0EjjBxUgwHagHCj77TYeZ%2FQ%3D",
+        "reaction": {
+            "likes": "3.1M",
+            "comments": "100K",
+            "isLiked": true
+        }
+    }
+]
